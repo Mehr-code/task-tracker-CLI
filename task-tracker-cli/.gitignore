@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# NPM debug log
+npm-debug.log*
+
+# Package lock files (optional, but good practice to ignore)
+package-lock.json
+yarn.lock
+
+# Build output
+/dist
